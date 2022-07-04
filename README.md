@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BernardoToazza
+- 👀 I’m interested in Economics, Data Science and Statistic
+- 🌱 I’m currently learning Python and SQL
+- 📫 How to reach me: Email: toazzab@gmail.com
