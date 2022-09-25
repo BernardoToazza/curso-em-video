@@ -1,0 +1,16 @@
+A lição de hoje trata de listas bidimensionais (Arrays)
+ Usamos essas listas para armazenar tabelas de dados de forma organizada e concisa 
+ 
+ #Como somar todos os números de um lista bidimenssional:
+ 
+ a = [[1, 2, 3, 4], [5, 6], [7, 8, 9]]
+ s = 0
+ for i in range(len(a)):
+     for j in range(len(a[i]):
+        s += a[i][j]
+ print(s)
+        
+O que esse código nos diz?
+Primeiramente faremos um lopping que percorrerá a distância da lista "a". Portanto, podemos chamá-lo de looping "macro". Internamente a esse looping outro que percorre
+cada observação de cada elemento da lista e faz a soma. 
+Feito a primeira soma (1+2+3+4+5) ele passa para a segunda coluna (5+6) e finaliza com (7+8+9).
