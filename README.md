@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BernardoToazza
 - 👀 I’m interested in Economics, Data Science and Statistic
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Pytho and Machine Learnig
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/bernardo-toazza/
