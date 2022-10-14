@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @BernardoToazza
-- 👀 I’m interested in Economics, Data Science and Statistic
-- 🌱 I’m currently learning Pytho and Machine Learnig
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/bernardo-toazza/
+Nesse repositório documento exercícios de:
+- Programação pura (Exercícios feito criação de um jogo de par ou ímpar com Python...);
+- Estudos de projetos de livros ou de outras pessoas (Exemplo: Estudando análise de crédito. Documentando os passos feitos em um livro.)
